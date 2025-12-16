@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="images/logo.png" alt="Team Analytics Logo" width="280">
-</p>
+<img width="1536" height="1024" alt="Analitycs" src="https://github.com/user-attachments/assets/2e3705b4-9a26-4532-a4e9-21386ec3eb87" />
+
 
 # 🎮 Steam Store Games — Análisis Exploratorio de Datos (EDA)
 
