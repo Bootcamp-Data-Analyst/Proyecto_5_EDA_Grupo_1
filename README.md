@@ -78,6 +78,7 @@ Equipo de Análisis de Datos:
 **Thamirys · Raúl · Yeray · Daniel · Alejandro**
 
 ## 👥 Stakeholders
-**Mariana**
+**Mariana** 
+**y** 
 **Rocío L.**
 
