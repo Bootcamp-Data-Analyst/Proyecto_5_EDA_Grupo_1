@@ -77,3 +77,7 @@ Analizar los factores que influyen en:
 Equipo de Análisis de Datos:  
 **Thamirys · Raúl · Yeray · Daniel · Alejandro**
 
+## 👥 Stakeholders
+**Mariana**
+**Rocío L.**
+
